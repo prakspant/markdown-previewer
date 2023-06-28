@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+#editor{
+  width: 30vw;
+  height: 30vh;
+}
+
+
+ul, ol {
+  list-style-position: inside;
+}
